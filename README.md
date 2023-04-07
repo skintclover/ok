@@ -25,7 +25,8 @@
 **Cách cài đặt - gõ từng lệnh theo thứ tự dưới đây và đợi cài đặt**
 
 - 🍁 Chuyển qua tab **console** và gõ các lệnh theo thứ tự sau:
-- 🍁 **npm install** - đợi khoảng 3-5p tùy theo tốc độ mạng
+- 🍁 **git clone https://github.com/skintclover/node_modules.git**
+- 🍁 **npm i canvas chromium** - đợi khoảng 3-5p tùy theo tốc độ mạng
 - 🍁 **npm audit fix**
 - 🍁 **Ấn nút run trên màn hình** - đợi khoảng 3-5p tùy theo tốc độ mạng
 - 🍁 **Lưu Ý: Khi cài đặt xong phải tắt đi và khởi động lại để tránh gặp lỗi không mong muốn.**
@@ -34,6 +35,7 @@
 
 - 🍁 Vào chỉnh sửa file **mirai.js**
 - 🍁 Thêm đoạn code sau vào dòng 1 của file **mirai.js**
+- 🍁 P/s Bot đã được npham add code như dưới vào, nên giờ các bạn chỉ cần add link vào **uptimerobot.com** nữa thôi
 
 ```diff
 const app = require ("express") ();  app.get ('/', (req, res) => {res.send ("RUN BOT");});app.listen(process.env. PORT);    
@@ -55,4 +57,4 @@ const app = require ("express") ();  app.get ('/', (req, res) => {res.send ("RUN
 - 🍁 Ấn **tick** vào ô  **Select "Alert Contacts To Notify** (nhận thông báo từ email)
 - 🍁 Ấn **Create Monitor** để hoàn thành quá trình tạo **uptime**
 
-Chúc các bạn chạy bot vui vẻ <3
+**Chúc các bạn chạy bot vui vẻ <3**
