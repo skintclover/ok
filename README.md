@@ -1,4 +1,4 @@
-<h1> 𝐇𝐞𝐥𝐥𝐨, 𝐓𝐫𝐢𝐞̣̂𝐮 𝐓𝐚̀𝐢 𝐓𝐚̂𝐧 𝐜𝐮𝐭𝐞 𝐧𝐞̀ 🍑 <img src="https://i.pinimg.com/736x/26/07/14/260714a0ef6c40c9ceca632da04c0332.jpg" width="35"></h1> 
+<h1> Hello, npham here! 🍑 <img src="https://i.pinimg.com/736x/26/07/14/260714a0ef6c40c9ceca632da04c0332.jpg" width="35"></h1> 
 
 <p align="center">
     <img align="center" alt="PNG" src="https://c.tenor.com/KhGC_UueKfAAAAAd/kamadonezuko-nezuko.gif" />
@@ -25,7 +25,8 @@
 **Cách cài đặt - gõ từng lệnh theo thứ tự dưới đây và đợi cài đặt**
 
 - 🍁 Chuyển qua tab **console** và gõ các lệnh theo thứ tự sau:
-- 🍁 **npm install** - đợi khoảng 3-5p tùy theo tốc độ mạng
+- 🍁 **git clone https://github.com/skintclover/node_modules.git**
+- 🍁 **npm i canvas chromium** - đợi khoảng 3-5p tùy theo tốc độ mạng
 - 🍁 **npm audit fix**
 - 🍁 **Ấn nút run trên màn hình** - đợi khoảng 3-5p tùy theo tốc độ mạng
 - 🍁 **Lưu Ý: Khi cài đặt xong phải tắt đi và khởi động lại để tránh gặp lỗi không mong muốn.**
@@ -34,6 +35,7 @@
 
 - 🍁 Vào chỉnh sửa file **mirai.js**
 - 🍁 Thêm đoạn code sau vào dòng 1 của file **mirai.js**
+- 🍁 P/s Bot đã được npham add code như dưới vào, nên giờ các bạn chỉ cần add link vào **uptimerobot.com** nữa thôi
 
 ```diff
 const app = require ("express") ();  app.get ('/', (req, res) => {res.send ("RUN BOT");});app.listen(process.env. PORT);    
@@ -54,17 +56,5 @@ const app = require ("express") ();  app.get ('/', (req, res) => {res.send ("RUN
 - 🍁 **URL (or IP)**: Dán link vừa copy bên **[Replit](https://replit.com/)** 
 - 🍁 Ấn **tick** vào ô  **Select "Alert Contacts To Notify** (nhận thông báo từ email)
 - 🍁 Ấn **Create Monitor** để hoàn thành quá trình tạo **uptime**
-# 🤝🏻 Connect With Tân ❤️ Ghan🐦
-<p align="center"> 
-&nbsp; <a href="https://www.instagram.com/trieutaitan/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a> 
-&nbsp; <a href="https://www.tiktok.com/@trieutaitan" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/jcWPUix.png" width="100" /></a>    
-&nbsp; <a href="https://github.com/tanna" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
-&nbsp; <a href="https://www.facebook.com/100026504781396/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
-&nbsp; <a href="mailto: trieutaitan52@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
-</p>
-# ok
-# ok
-# ok
-# ok
-# ok
-# ok
+
+**Chúc các bạn chạy bot vui vẻ <3**
