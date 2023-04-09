@@ -74,7 +74,7 @@ function startBot(message) {
 axios.get("https://raw.githubusercontent.com/d-jukie/miraiv2/main/package.json").then((res) => {
     logger(res['data']['name'], "[ Bypass ]");
     logger("Version: " + res['data']['version'], "[ Phiên Bản ]");
-    logger(res['data']['description'], "[ Triệu Tài Tân ]");
+    logger(res['data']['description'], "[npham]");
 });
 
 
